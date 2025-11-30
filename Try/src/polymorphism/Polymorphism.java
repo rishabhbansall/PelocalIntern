@@ -1,3 +1,5 @@
+package src.polymorphism;
+
 public class Polymorphism {
     static class Maths{
         int add(int a,int b){

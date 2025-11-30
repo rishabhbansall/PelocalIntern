@@ -1,3 +1,5 @@
+package src.encapsulation;
+
 class TryEncapsulation {
     private double balance; // Hidden data
 
@@ -15,13 +17,6 @@ class TryEncapsulation {
         if(amount <= balance)
             balance -= amount;
     }
-
-//    public static void main(String[] args) {
-//        TryEncapsulation account = new TryEncapsulation();
-//        account.deposit(10000);
-//        account.withdraw(500);
-//        System.out.println("Balance: " + account.getBalance());
-//    }
 }
 class Balance{
     public static void main(String[] args) {

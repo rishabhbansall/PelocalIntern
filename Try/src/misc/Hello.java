@@ -1,3 +1,5 @@
+package src.misc;
+
 public class Hello {
     public int a;
     public int b;

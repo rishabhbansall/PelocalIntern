@@ -1,3 +1,5 @@
+package src.abstraction;
+
 public class Abstaction {
     abstract static class Shape {
         abstract void draw(); // No implementation
@@ -15,4 +17,3 @@ public class Abstaction {
     }
 
 }
-

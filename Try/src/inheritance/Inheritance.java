@@ -1,3 +1,4 @@
+package src.inheritance;
 class Inheritance {
     void start(){
         System.out.println("Vehicle Start");

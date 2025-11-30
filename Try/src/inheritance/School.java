@@ -1,3 +1,5 @@
+package src.inheritance;
+
 public class School {
     void Class(){
         System.out.println("This is school");
