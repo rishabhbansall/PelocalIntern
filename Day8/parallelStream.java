@@ -61,12 +61,5 @@ public class parallelStream {
         System.out.println("Time taken in parallel sum: "+(endTime1-startTime1));
 
 
-
-
-
-
-
-
-
     }
 }
